@@ -1,0 +1,25 @@
+* {
+	margin:0;
+	padding:0;
+	font-family:sans-serif;
+}
+.box-login {
+	width:30%;
+	height:400px;
+	border:1px solid #999;
+	margin:2%;
+}
+.box-login form input[type=email],
+.box-login form input[type=password] {
+	width:90%;
+	height:40px;
+	padding-left:1%;
+	font-size:17px;
+	margin:1% 0 1% 5%;
+}
+.box-login form input[type=submit] {
+	width:90%;
+	height:40px;
+	font-size:17px;
+	margin:1% 0 1% 5%;
+}
